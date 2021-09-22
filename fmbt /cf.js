@@ -23,8 +23,8 @@ const gzhMap = {
 
 const domainMap = {
     local: 'http://localhost:' + port,
-    dev: 'http://你的服务域名',
-    prod: 'http://你的服务域名'
+    dev: 'https://ailiaote.github.io/m-note/',
+    prod: 'https://ailiaote.github.io/m-note/'
 };
 
 const cdnMap = {
